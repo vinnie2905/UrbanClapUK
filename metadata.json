@@ -1,0 +1,11 @@
+{
+  "name": "UrbanClap UK",
+  "description": "An on-demand home services network in the UK providing verified cooking, salon, cleaning, plumbing, electrical, and appliance repair services with location-based search, automated document verification, real-time bookings, and subscription tiers.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
