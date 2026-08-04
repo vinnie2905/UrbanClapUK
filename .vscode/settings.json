@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/afa2e514-8139-4520-82c1-07e346d6f2d0/resourceGroups/Website/providers/Microsoft.Web/sites/UrbanClapUK",
+    "appService.deploySubpath": "."
+}
