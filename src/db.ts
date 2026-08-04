@@ -27,7 +27,7 @@ export function getDatabasePool(): Pool {
           'Database connection configurations (DATABASE_URL or DB_HOST/DB_USER/DB_PASSWORD) are missing.'
         );
       }
-
+//
       poolInstance = new Pool({
         host,
         port,
